@@ -25,6 +25,6 @@ npm run dev
 npm run build:win
 ```
 
-##叠甲
+## 叠甲
 基本上没接触过vue3和electron，代码写的很low，欢迎大佬改进<br>
 目前的功能已经满足我的需求，可能不会主动更新了。
